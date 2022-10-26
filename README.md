@@ -1,4 +1,4 @@
-# 3D Product Viewer Built With React, Three.JS, React-Three-Fiber, and Drei
+# 3D Product Viewer
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
