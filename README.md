@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![3D Product Viewer](https://user-images.githubusercontent.com/105236273/197947037-4803fc32-b5c1-420b-a347-b5cffa6fe258.png)
+
 ## Dependencies
 [react-three-fiber](https://github.com/pmndrs/react-three-fiber)
 [drei](https://github.com/pmndrs/drei)

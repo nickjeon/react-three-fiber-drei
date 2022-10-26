@@ -19,7 +19,7 @@ export default function CanvasContainer() {
         rotation={[0, 0.3, 0]}
         polar={[-Math.PI / 3, Math.PI / 3]}
         azimuth={[-Math.PI / 1.4, Math.PI / 2]}>
-        <Watch rotation={[-Math.PI / 2, 0, 0]} position={[0, 0.25, 0]} scale={0.003} />
+        <Watch rotation={[-Math.PI / 2, 0, 0]} position={[0, 0, 0]} scale={15} />
       </PresentationControls>
       <ContactShadows position={[0, -1.4, 0]} opacity={0.75} scale={10} blur={2.5} far={4} />
       <Environment preset="city" />
